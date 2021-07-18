@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="Employee.xsl"?>
+<emp>
+<s>
+ <eno> 1001 </eno>
+ <name> 
+	<fname> a </fname>
+	<lname> b</lname>
+	<mname> c </mname>
+ </name>
+ <fathername> xyz </fathername>
+ <DOB> </DOB>
+ <city> udupi </city>
+ <state> kar </state>
+ <qualification> BCA </qualification>
+ <salary> 45000 </salary>
+</s>
+
+<s>
+ <eno> 1002 </eno>
+ <name> 
+	<fname> d </fname>
+	<lname> e </lname>
+	<mname> f</mname>
+ </name>
+ <fathername> pqr </fathername>
+ <DOB> 18-02-2000 </DOB>
+ <city> karkala </city>
+ <state> kar</state>
+ <qualification> MCA </qualification>
+ <salary> 51000 </salary>
+</s>
+
+<s>
+ <eno> 1003 </eno>
+ <name> 
+	<fname> g </fname>
+	<lname> h </lname>
+	<mname> i </mname>
+ </name>
+ <fathername> vbnm </fathername>
+ <DOB> </DOB>
+ <city> Udupi </city>
+ <state> Karnataka </state>
+ <qualification> M.Tech </qualification>
+ <salary> 602000 </salary>
+</s>
+</emp>
+
+
